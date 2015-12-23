@@ -1,1 +1,3 @@
-Hello from Blair 
+Hello
+
+Welcome to my public repository 
